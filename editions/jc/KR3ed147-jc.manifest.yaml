@@ -27,13 +27,12 @@ assets:
   - {seq: 6, filename: KR3ed147_006-jc.yaml, hash: 'sha256:c5d147e9ad7c6331096e6c64136b768249ecac69b487b2f9ae8c8abbd7e6101e'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ed147_000-jc.markers.yaml, hash: 'sha256:273426289774adf135a9b06eec746095568d9afa2ac3d13ce1cf5f66a68ae6fa'}
-  - {seq: 1, role: markers, filename: assets/KR3ed147_001-jc.markers.yaml, hash: 'sha256:3df68a6221300e7b9f38f9491289e3008fd80287327f625ea4ae59e7297799a6'}
-  - {seq: 2, role: markers, filename: assets/KR3ed147_002-jc.markers.yaml, hash: 'sha256:f5dd55e635c16c4af4bfd597095e076be01e231b475207663570e29094241600'}
-  - {seq: 3, role: markers, filename: assets/KR3ed147_003-jc.markers.yaml, hash: 'sha256:9ca0bee2e66d1bf8ce54d165e8081d1efc7768c1a6d89d0089c1274ad85bb0da'}
-  - {seq: 4, role: markers, filename: assets/KR3ed147_004-jc.markers.yaml, hash: 'sha256:46a018485f2a6e47269b95288ce5575f4b5eb55950de04cf94761a7d2b91d507'}
-  - {seq: 5, role: markers, filename: assets/KR3ed147_005-jc.markers.yaml, hash: 'sha256:3ef99cf4663600993020684421df2343fab74bc0fda35f02699cfe876c214e95'}
-  - {seq: 0, role: markers, filename: assets/KR3ed147_000-jc.markers.yaml, hash: 'sha256:273426289774adf135a9b06eec746095568d9afa2ac3d13ce1cf5f66a68ae6fa'}
-  - {seq: 6, role: markers, filename: assets/KR3ed147_006-jc.markers.yaml, hash: 'sha256:a8ec95a39d3907c400650b7f6de63c51cfd7ebcc0fe10dd5feda1656e01576bf'}
+  - {seq: 1, role: markers, filename: assets/KR3ed147_001-jc.markers.yaml, hash: 'sha256:33c80ebd4a13d8d3514c09ca2265a851edea1be3a6ea69c80bf37783e420b5ae'}
+  - {seq: 2, role: markers, filename: assets/KR3ed147_002-jc.markers.yaml, hash: 'sha256:7f58016c8c4c6bc95076d3ffae131ceb5c22758855f5202d8883331913e94eb5'}
+  - {seq: 3, role: markers, filename: assets/KR3ed147_003-jc.markers.yaml, hash: 'sha256:d6e7a861dfd76ab162c953d28c32093cf79b233c1735e7e80c070c90a4459d6f'}
+  - {seq: 4, role: markers, filename: assets/KR3ed147_004-jc.markers.yaml, hash: 'sha256:b6b89016186e0d1e1ecb13f590757922272eeabd1eb4e9807c08891ce8536f17'}
+  - {seq: 5, role: markers, filename: assets/KR3ed147_005-jc.markers.yaml, hash: 'sha256:61399d13412964414010bcd84596d199b38bd6eeb5950687e025ff90314f8293'}
+  - {seq: 6, role: markers, filename: assets/KR3ed147_006-jc.markers.yaml, hash: 'sha256:a53e36da095c9fa8735531c046d0e9c4623d2a4bb3826c9407b0235e76c7ca82'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1525,4 +1524,4 @@ table_of_contents:
   label: 疔瘡治法
   type: section
   level: 2
-hash: sha256:4430901f6fbaa8298eefe6a5aa006c2983a2f5b20d5723a2066156def439f6d7
+hash: sha256:ef778183c12575d8a3e7b536d901414dde835229c04d35c5191af477688ab0cf
