@@ -17,16 +17,16 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed147_000.yaml, hash: 'sha256:6c9fa81935cf2fb0d0274e6e1ff87fb1af7e4a935ff8c733e9eee437a978e0cf'}
+  - {seq: 0, filename: KR3ed147_000.yaml, hash: 'sha256:7e7a5961bc8caf0b889f9554de6e038ddadf8e19f249be7584eefebdcaecb989'}
   - {seq: 1, filename: KR3ed147_001.yaml, hash: 'sha256:db1931bab9586def4bedc3238724c6bec2672c3d4874d873bdfbb40bfdb99cf3'}
   - {seq: 2, filename: KR3ed147_002.yaml, hash: 'sha256:805e730ad5e3c91c5fdf021c828961d1b2dc429aefd8375c0751f30a771e3cd2'}
   - {seq: 3, filename: KR3ed147_003.yaml, hash: 'sha256:432afc2b0f95180d35d6cd3ae4190f7fd98401cb48bee8ba80edfc9f2e8a82b4'}
   - {seq: 4, filename: KR3ed147_004.yaml, hash: 'sha256:21f33d56231d58b25b9193116ce9c3199ae52e8196b6b60037aa5ab16d15fe27'}
   - {seq: 5, filename: KR3ed147_005.yaml, hash: 'sha256:72f4e9900e4465ef96843125d177bc3e6c6107065d918e9ef37ef47cecb508ee'}
-  - {seq: 0, filename: KR3ed147_000.yaml, hash: 'sha256:6c9fa81935cf2fb0d0274e6e1ff87fb1af7e4a935ff8c733e9eee437a978e0cf'}
+  - {seq: 0, filename: KR3ed147_000.yaml, hash: 'sha256:7e7a5961bc8caf0b889f9554de6e038ddadf8e19f249be7584eefebdcaecb989'}
   - {seq: 6, filename: KR3ed147_006.yaml, hash: 'sha256:f9d04b1cb97b8f5dffc54cab8ab8b1377e4c8066977c32e9682e181bb74c1f28'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed147_000.markers.yaml, hash: 'sha256:fbcd93f307a0a676b11e8ab3f12ce8ee5114a67f94299081a45ded3cd4b2e055'}
+  - {seq: 0, role: markers, filename: assets/KR3ed147_000.markers.yaml, hash: 'sha256:20dcd44dfce805afd95c487bc5f928393a72db61e98e41329e0943268d83cdb5'}
   - {seq: 1, role: markers, filename: assets/KR3ed147_001.markers.yaml, hash: 'sha256:9a65b5b64572c50b247bca8e0382ddea20db3e4639c46b7225be69dd6aaef66e'}
   - {seq: 2, role: markers, filename: assets/KR3ed147_002.markers.yaml, hash: 'sha256:2e5e9aad51943b9dd76f80f1c7a2556e16f0b1d5171049757999f8820d281223'}
   - {seq: 3, role: markers, filename: assets/KR3ed147_003.markers.yaml, hash: 'sha256:8eb71a56e5dac7822b39eb36625a50e53b06ef96709771d1856cbf6d7c183632'}
@@ -38,7 +38,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed147_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 829
   label: 序一
@@ -48,7 +48,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed147_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 829
     - 1850
   label: 序二
@@ -58,7 +58,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed147_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 1850
     - 2448
   label: 序三
@@ -68,7 +68,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed147_jc_000-d5.h1s1
     span:
-    - front
+    - body
     - 2448
     - 2953
   label: 序四
@@ -1488,7 +1488,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed147_jc_000-d11.h1s1
     span:
-    - front
+    - body
     - 0
     - 241
   label: 急救仙方序
@@ -1524,7 +1524,7 @@ table_of_contents:
   label: 疔瘡治法
   type: section
   level: 2
-hash: sha256:185fb0467ab95f87f474ad7c546b1e155c52d0b4a979288079a723ea1f4e42bc
+hash: sha256:13f017ea714c1c35c5aacb44403344b60ecdef01cd87e16204fc07b7dd952282
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
